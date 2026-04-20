@@ -3,7 +3,17 @@ entries:
   voting-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-04-20T12:23:42.137160337+05:30"
+    created: "2026-04-20T12:54:14.204641282+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 78ca406f4a4e1523ad6966e332deddf60a82edfbabd7c27f4dc1ad69f36f59f3
+    name: voting-test
+    type: application
+    urls:
+    - voting-test-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-04-20T12:54:14.20397871+05:30"
     description: A Helm chart for Kubernetes
     digest: 92217c75099b6c4fa07915ef1f99d322143fbabf83358044751ed942580b9e41
     name: voting-test
@@ -11,4 +21,4 @@ entries:
     urls:
     - voting-test-0.1.0.tgz
     version: 0.1.0
-generated: "2026-04-20T12:23:42.136748097+05:30"
+generated: "2026-04-20T12:54:14.111799638+05:30"
